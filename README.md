@@ -2,9 +2,9 @@
 
 Avec un peu de texte en dessous
 
-# Recette : Tarte à la Fraise 🍓
+## Recette : Tarte à la Fraise 🍓
 
-## Ingrédients
+### Ingrédients
 
 - **Pâte sablée :**
 
@@ -18,7 +18,7 @@ Avec un peu de texte en dessous
   - 250ml de crème pâtissière (maison ou prête à l'emploi)
   - 1 sachet de sucre vanillé (optionnel)
 
-## Étapes de préparation
+### Étapes de préparation
 
 1. **Préparer la pâte sablée :**
    - Mélanger la farine, le sucre, et le beurre coupé en morceaux jusqu'à obtenir une texture sableuse.
